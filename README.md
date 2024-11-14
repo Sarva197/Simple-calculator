@@ -1,4 +1,4 @@
-Simple Calculator - Web Development Mini Project
+Simple Calculator - Web Development Mini Project new readme
 
 This repository contains a basic calculator web application built using HTML, CSS, and JavaScript. It demonstrates core frontend development concepts, focusing on creating an interactive and responsive interface.
 
